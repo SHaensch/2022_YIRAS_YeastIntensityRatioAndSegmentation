@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this script, please cite it as below."
+authors:
+  - family-names: "Hänsch"
+    given-names: "Sebastian"
+    ORCID: "https://orcid.org/0000-0002-7762-2516"
+title: "YIRAS_YeastIntensityRatioAndSegmentation"
+version: 1
+doi: 10.1021/acs.biochem.3c00451
+date-released: 2025-07-10
+url: "https://github.com/SHaensch/2022_YIRAS_YeastIntensityRatioAndSegmentation"
